@@ -1,2 +1,2 @@
-# algorithms
-Implementation of essential algorithms using Java
+# Algorithms
+Implementation of essential algorithms using Java.
